@@ -20,3 +20,5 @@ et `public/CNAME`.
 Règles de contenu : rien d'inventé présenté comme réel, aucune promesse non confirmée, aucune
 allégation médicale, jamais de texte provisoire publié. Les pages légales sont des modèles à relire
 pour chaque site.
+
+<!-- redeploiement pour relancer la verification du domaine -->
